@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Git_Prac\\RazorPagesBooks\\RazorPagesBooks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3DA0F58-0005-4183-B5B9-D605E7BC64E2}|RazorPagesBooks\\RazorPagesBooks.csproj|c:\\users\\user\\desktop\\git_prac\\razorpagesbooks\\razorpagesbooks\\razorpagesbooks\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3DA0F58-0005-4183-B5B9-D605E7BC64E2}|RazorPagesBooks\\RazorPagesBooks.csproj|solutionrelative:razorpagesbooks\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Git_Prac\\RazorPagesBooks\\RazorPagesBooks\\RazorPagesBooks\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RazorPagesBooks\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Git_Prac\\RazorPagesBooks\\RazorPagesBooks\\RazorPagesBooks\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RazorPagesBooks\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABgAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-24T08:19:17.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
