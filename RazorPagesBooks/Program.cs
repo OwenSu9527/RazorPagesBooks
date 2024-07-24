@@ -1,7 +1,12 @@
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using RazorPagesBooks.Data;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
+builder.Services.AddDbContext<RazorPagesBooksContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("RazorPagesBooksContext") ?? throw new InvalidOperationException("Connection string 'RazorPagesBooksContext' not found.")));
 
 var app = builder.Build();
 
@@ -17,8 +22,6 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
-
-app.UseAuthorization();
 
 app.MapRazorPages();
 
