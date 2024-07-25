@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Git_Prac\\RazorPagesBooks\\RazorPagesBooks\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B3DA0F58-0005-4183-B5B9-D605E7BC64E2}|RazorPagesBooks\\RazorPagesBooks.csproj|c:\\users\\user\\desktop\\git_prac\\razorpagesbooks\\razorpagesbooks\\razorpagesbooks\\pages\\books\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3DA0F58-0005-4183-B5B9-D605E7BC64E2}|RazorPagesBooks\\RazorPagesBooks.csproj|solutionrelative:razorpagesbooks\\pages\\books\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3DA0F58-0005-4183-B5B9-D605E7BC64E2}|RazorPagesBooks\\RazorPagesBooks.csproj|c:\\users\\user\\desktop\\git_prac\\razorpagesbooks\\razorpagesbooks\\razorpagesbooks\\pages\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3DA0F58-0005-4183-B5B9-D605E7BC64E2}|RazorPagesBooks\\RazorPagesBooks.csproj|solutionrelative:razorpagesbooks\\pages\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3DA0F58-0005-4183-B5B9-D605E7BC64E2}|RazorPagesBooks\\RazorPagesBooks.csproj|c:\\users\\user\\desktop\\git_prac\\razorpagesbooks\\razorpagesbooks\\razorpagesbooks\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3DA0F58-0005-4183-B5B9-D605E7BC64E2}|RazorPagesBooks\\RazorPagesBooks.csproj|solutionrelative:razorpagesbooks\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3DA0F58-0005-4183-B5B9-D605E7BC64E2}|RazorPagesBooks\\RazorPagesBooks.csproj|c:\\users\\user\\desktop\\git_prac\\razorpagesbooks\\razorpagesbooks\\razorpagesbooks\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3DA0F58-0005-4183-B5B9-D605E7BC64E2}|RazorPagesBooks\\RazorPagesBooks.csproj|solutionrelative:razorpagesbooks\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B3DA0F58-0005-4183-B5B9-D605E7BC64E2}|RazorPagesBooks\\RazorPagesBooks.csproj|c:\\users\\user\\desktop\\git_prac\\razorpagesbooks\\razorpagesbooks\\razorpagesbooks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3DA0F58-0005-4183-B5B9-D605E7BC64E2}|RazorPagesBooks\\RazorPagesBooks.csproj|solutionrelative:razorpagesbooks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,11 +34,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Git_Prac\\RazorPagesBooks\\RazorPagesBooks\\RazorPagesBooks\\Pages\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorPagesBooks\\Pages\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Git_Prac\\RazorPagesBooks\\RazorPagesBooks\\RazorPagesBooks\\Pages\\Books\\Index.cshtml",
+              "RelativeToolTip": "RazorPagesBooks\\Pages\\Books\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T07:08:34.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Git_Prac\\RazorPagesBooks\\RazorPagesBooks\\RazorPagesBooks\\Pages\\Books\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPagesBooks\\Pages\\Books\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Git_Prac\\RazorPagesBooks\\RazorPagesBooks\\RazorPagesBooks\\Pages\\Books\\Index.cshtml.cs",
+              "RelativeToolTip": "RazorPagesBooks\\Pages\\Books\\Index.cshtml.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwDwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T06:55:00.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Git_Prac\\RazorPagesBooks\\RazorPagesBooks\\RazorPagesBooks\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RazorPagesBooks\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Git_Prac\\RazorPagesBooks\\RazorPagesBooks\\RazorPagesBooks\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RazorPagesBooks\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T06:49:50.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Git_Prac\\RazorPagesBooks\\RazorPagesBooks\\RazorPagesBooks\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "RazorPagesBooks\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Git_Prac\\RazorPagesBooks\\RazorPagesBooks\\RazorPagesBooks\\Models\\Book.cs",
+              "RelativeToolTip": "RazorPagesBooks\\Models\\Book.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T06:31:10.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Git_Prac\\RazorPagesBooks\\RazorPagesBooks\\RazorPagesBooks\\Program.cs",
               "RelativeDocumentMoniker": "RazorPagesBooks\\Program.cs",
@@ -35,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "SeedData.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Git_Prac\\RazorPagesBooks\\RazorPagesBooks\\RazorPagesBooks\\Models\\SeedData.cs",
               "RelativeDocumentMoniker": "RazorPagesBooks\\Models\\SeedData.cs",
@@ -43,8 +111,7 @@
               "RelativeToolTip": "RazorPagesBooks\\Models\\SeedData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T12:49:46.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T12:49:46.14Z"
             }
           ]
         }
