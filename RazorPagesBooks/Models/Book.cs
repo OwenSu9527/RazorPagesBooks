@@ -13,5 +13,7 @@ namespace RazorPagesBooks.Models
         [Display(Name = "Publication Date")]
         [DataType(DataType.Date)]
         public DateTime PublicationDate { get; set; }
+
+        public string Rating { get; set; } = string.Empty;
     }
 }
