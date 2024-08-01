@@ -12,7 +12,7 @@ builder.Services.AddDbContext<RazorPagesBooksContext>(options =>
 var app = builder.Build();
 
 //                      For SeedData
-//using (var scope = app.Services.CreateScope())
+using (var scope = app.Services.CreateScope())
 //{
 //    var services = scope.ServiceProvider;
 
